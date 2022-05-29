@@ -7,7 +7,7 @@
 .hero{
     height: 100vh;
     width: 100%;
-background-image: url(../img/luballo.jpg);
+background-image: url(img/luballo.jpg);
 background-size: cover ;
 background-position: center;
 }
@@ -273,7 +273,7 @@ footer{
     position: relative;
     width: 100%;
     height: 400px;
-    background-image: url(../img/albero.jpg) ;
+    background-image: url(img/albero.jpg) ;
     background-size: cover;
     display: flex;
     flex-direction: column;
